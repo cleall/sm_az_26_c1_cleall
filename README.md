@@ -1,4 +1,4 @@
-#Capstone project 1 for sm_az_26
+Capstone project 1 for sm_az_26
 
 #### Capstone Project Experimenting on Fibra Monterrey Data
 
